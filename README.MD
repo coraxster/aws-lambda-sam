@@ -1,1 +1,1 @@
-###AWS-LAMBDA-SAM 0.5.9 image
+### AWS-LAMBDA-SAM 0.5.0 image
